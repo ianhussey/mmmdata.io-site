@@ -26,7 +26,7 @@ ERЯOR: A bug-bounty program for science
 
 #### "Forensic Meta-Science in Psychology" Slack group
 
-I run the Slack group "Forensic Meta-Science in Psychology", which is one of several groups for sleuths. This group has a particular focus on psychology, tool development, and is orientated towards encouraging Early Career Researcher involvement. Contact me with your relevant interests and experience if would like to join. 
+I run the Slack group "Forensic Meta-Science", which is one of several groups for sleuths. This group has a particular focus on psychology, tool development, and is orientated towards encouraging Early Career Researcher involvement. Contact me with your relevant interests and experience if would like to join. 
 
 #### Granularity-based testing via GRIM & GRIMMER
 
@@ -38,7 +38,7 @@ I run the Slack group "Forensic Meta-Science in Psychology", which is one of sev
 - Web app demo: https://errors.shinyapps.io/TIDES
 - R package: https://github.com/ianhussey/tides
 
-#### Intuitiions for the plausibility of effect-sizes
+#### Intuitions for the plausibility of effect-sizes
 
 - https://errors.shinyapps.io/effect_size_percentiles/
 
